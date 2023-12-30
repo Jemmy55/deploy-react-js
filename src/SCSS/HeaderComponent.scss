@@ -587,6 +587,30 @@ body{
             width: calc(100% / 1);
         }
     }
+    .bill{
+        .showProduct{
+            .cart{
+                .left{
+                    .ontop{
+                        h5{
+                            font-size: 16px !important;
+                        }
+                        .price p{
+                            font-size: 12px !important;
+                        }
+                        .price span{
+                            font-size: 14px !important;
+                        }
+                    }
+                    .bottom{
+                        ul > li {
+                            font-size: 14px !important;
+                        }
+                    }
+                }
+            }
+        }
+    }
 }
 @media (max-width: 568px){
     .list-product{
@@ -678,6 +702,38 @@ body{
         .section-total-price{
             p, span, label{
                 font-size: 11px !important;
+            }
+        }
+    }
+    .bill{
+        .info{
+            p{
+                font-size: 14px !important;
+            }
+            span{
+                font-size: 16px !important;
+            }
+        }
+        .showProduct{
+            .cart{
+                .left{
+                    .ontop{
+                        h5{
+                            font-size: 12px !important;
+                        }
+                        .price p{
+                            font-size: 10px !important;
+                        }
+                        .price span{
+                            font-size: 10px !important;
+                        }
+                    }
+                    .bottom{
+                        ul > li {
+                            font-size: 10px !important;
+                        }
+                    }
+                }
             }
         }
     }

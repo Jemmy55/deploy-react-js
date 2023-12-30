@@ -990,6 +990,82 @@
                         "Name": "362.3 x 237.4 x 19.9 (mm)"
                     }
                 ]
+            },
+            {
+                "name": "Laptop MSI Summit E14 Evo A12M 211VN",
+                "imgProduct": [
+                    "https://product.hstatic.net/200000722513/product/aptop-msi-summit-e14-evo-a12m-211vn-1_5fc0898020c44422b37c9293db1c3edb_d48b2ea8b32449e09f359198932f6f25_grande.png",
+                    "https://product.hstatic.net/200000722513/product/aptop-msi-summit-e14-evo-a12m-211vn-2_69ccefa31f57426ebf16dded817bb852_d891f6d91a1a43f1b70917c9a4d9b299_grande.png",
+                    "https://product.hstatic.net/200000722513/product/aptop-msi-summit-e14-evo-a12m-211vn-3_875f2f516a024be599d8b66bde2aab15_5b325a96e4f34ef28b6daa69b3604f11_grande.png",
+                    "https://product.hstatic.net/200000722513/product/aptop-msi-summit-e14-evo-a12m-211vn-4_e2acbb7c590b4b6099ba40c816eeb19c_32b6f2a5cc674fc5b864be8706c8eb1f_grande.png",
+                    "https://product.hstatic.net/200000722513/product/aptop-msi-summit-e14-evo-a12m-211vn-5_592a62fc3c1d4b65b2828a47e436db66_cca5a2cc7f1948479dc4539cd0e5def5_grande.png"
+                ],
+                "infoconfig": [
+                    {
+                        "Lable": "Thương Hiệu",
+                        "Name": "MSI"
+                    },
+                    {
+                        "Lable": "Bảo hành",
+                        "Name": "12 tháng"
+                    },
+                    {
+                        "Lable": "Hệ điều hành",
+                        "Name": "Windows 11 Home"
+                    },
+                    {
+                        "Lable": "CPU",
+                        "Name": "Intel Core i7-1280P (Up to 4.8GHz) 14 Cores 20 Threads 24MB"
+                    },
+                    {
+                        "Lable": "Chip đồ họa",
+                        "Name": "Intel Iris Xe Graphics"
+                    },
+                    {
+                        "Lable": "RAM",
+                        "Name": "16GB LPDDR5 4800Mhz Onboard (Không nâng cấp)"
+                    },
+                    {
+                        "Lable": "Màn hình",
+                        "Name": "14 Inch FHD (1920x1200) 16:10 IPS, 100% sRGB"
+                    },
+                    {
+                        "Lable": "Bàn phím",
+                        "Name": "Single Backlit Keyboard (White)"
+                    },
+                    {
+                        "Lable": "Webcam",
+                        "Name": "IR FHD type (30fps@1080p)"
+                    },
+                    {
+                        "Lable": "Bảo mật",
+                        "Name": "Vân Tay"
+                    },
+                    {
+                        "Lable": "Cổng xuất hình",
+                        "Name": "1 x HDMI@ 2.1 port with HDCP support"
+                    },
+                    {
+                        "Lable": "Chuẩn WIFI & Bluetooth",
+                        "Name": "Intel® Killer™ AX Wi-Fi 6E / v5.2"
+                    },
+                    {
+                        "Lable": "Pin",
+                        "Name": "4 cell, 72Whr"
+                    },
+                    {
+                        "Lable": "Trọng lượng",
+                        "Name": "1.6 kg"
+                    },
+                    {
+                        "Lable": "Màu sắc",
+                        "Name": "Đen"
+                    },
+                    {
+                        "Lable": "Kích thước",
+                        "Name": "314 x 227.5 x 17.9 mm"
+                    }
+                ]
             }
         ]
     },
@@ -998,126 +1074,708 @@
         "ItemProductId": "LaptopGaming",
         "Product": [
             {
-                "name": "",
+                "name": "Laptop gaming Acer Predator Helios 300 PH315 55 76KG",
                 "imgProduct": [
-
+                    "https://product.hstatic.net/200000722513/product/76kg_1433e407838944df88bd906b57729c0a_grande.png",
+                    "https://product.hstatic.net/200000722513/product/gearvn-laptop-gaming-acer-predator-helios-300-ph315-55-76kg-1_047ce8c04eb146ea90e261914db6ee8d_grande.jpg",
+                    "https://product.hstatic.net/200000722513/product/gearvn-laptop-gaming-acer-predator-helios-300-ph315-55-76kg-2_b691157e215b46f48502b9f2e7f023f3_grande.jpg",
+                    "https://product.hstatic.net/200000722513/product/gearvn-laptop-gaming-acer-predator-helios-300-ph315-55-76kg-3_b9f77d55d61a4bf8b92af76f6f5f5a5f_grande.jpg",
+                    "https://product.hstatic.net/200000722513/product/gearvn-laptop-gaming-acer-predator-helios-300-ph315-55-76kg-4_58b07a590b6e433882110cf8e8f8955b_grande.jpg",
+                    "https://product.hstatic.net/200000722513/product/gearvn-laptop-gaming-acer-predator-helios-300-ph315-55-76kg-5_e321ebacfb784091804d67a256d9fc9b_grande.jpg",
+                    "https://product.hstatic.net/200000722513/product/gearvn-laptop-gaming-acer-predator-helios-300-ph315-55-76kg-6_977b4ed346404e429b3215d54ea5df40_grande.jpg"
                 ],
                 "infoconfig": [
                     {
                         "Lable": "Thương Hiệu",
-                        "Name": ""
+                        "Name": "ACER"
                     },
                     {
                         "Lable": "Bảo hành",
-                        "Name": ""
+                        "Name": "12 tháng"
                     },
                     {
                         "Lable": "Hệ điều hành",
-                        "Name": ""
+                        "Name": "Windows 11 Home"
                     },
                     {
                         "Lable": "CPU",
-                        "Name": ""
+                        "Name": "Intel® Core™ i7-12700H (up to 4.7Ghz, 24MB cache)"
                     },
                     {
                         "Lable": "Chip đồ họa",
-                        "Name": ""
+                        "Name": "NVIDIA GeForce RTX 3060 6GB GDDR6"
                     },
                     {
                         "Lable": "RAM",
-                        "Name": ""
+                        "Name": "16GB DDR5 4800Mhz (2x8GB) (2x SO-DIMM socket, up to 32GB SDRAM)"
                     },
                     {
                         "Lable": "Màn hình",
-                        "Name": ""
+                        "Name": "15.6 inch QHD (2560 x1440) IPS 165Hz, DCI-P3 100%, 5ms, 300nits, SlimBezel"
                     },
                     {
                         "Lable": "Bàn phím",
-                        "Name": ""
+                        "Name": "RGB 4 Zone"
                     },
                     {
                         "Lable": "Webcam",
-                        "Name": ""
+                        "Name": "1080p HD video at 60 fps with Temporal Noise Reduction"
                     },
                     {
                         "Lable": "Bảo mật",
-                        "Name": ""
+                        "Name": "None"
                     },
                     {
                         "Lable": "Cổng xuất hình",
-                        "Name": ""
+                        "Name": "1 x Mini DisplayPort 1.4 "
                     },
                     {
                         "Lable": "Chuẩn WIFI & Bluetooth",
-                        "Name": ""
+                        "Name": "Intel Wi-Fi 6E (2*2 ax) / v5.2"
                     },
                     {
                         "Lable": "Pin",
-                        "Name": ""
+                        "Name": "4 cell, 90Whr"
                     },
                     {
                         "Lable": "Trọng lượng",
-                        "Name": ""
+                        "Name": "2.4 kg"
                     },
                     {
                         "Lable": "Màu sắc",
-                        "Name": ""
+                        "Name": "Đen"
                     },
                     {
                         "Lable": "Kích thước",
-                        "Name": ""
+                        "Name": "359.4 x 276.4 x 25.55 mm"
                     }
                 ],
                 "content": [
                     {
-                        "h3": "",
-                        "contect": "",
-                        "img": ""
+                        "h3": "Đánh giá chi tiết laptop gaming Acer Predator Helios 300 PH315 55 76KG",
+                        "contect": "RTX 3060 sẽ mang lại hiệu suất tối ưu cho game thủ và creator. Chiếc card màn hình được sở hữu sức mạnh bởi kiến trúc Ampere thế hệ 2 của NVIDIA - bao gồm công nghệ Ray Tracing mới, Lõi Tensor và khả năng streaming với bộ xử lý multiprocessor để có một bước nhảy vọt về hiệu năng.",
+                        "img": "https://file.hstatic.net/200000722513/file/gearvn-laptop-gaming-acer-predator-helios-300-ph315-55-76kg-__21__f828536aa5a2471cb9b6fa01e11d8701_grande.jpg"
                     },
                     {
-                        "h3": "",
-                        "contect": "",
-                        "img": ""
+                        "h3": "Khả năng xử lý mạnh mẽ với Intel Gen 12",
+                        "contect": "Ẩn sâu trong con quái vật Acer Predator Helios 300 là chiếc CPU Intel i7 Gen 12 với mã - 12700H. Kết hợp cùng 16GB RAM,  Acer Predator Helios 300 PH315 55 76KG mang lại khả năng xử lý với tốc độ đáng kinh ngạc bao gồm nhiều tác vụ công việc và giải trí.",
+                        "img": "https://file.hstatic.net/200000722513/file/gearvn-laptop-gaming-acer-predator-helios-300-ph315-55-76kg-__19__d56d90df79c44cfba630e7b6d388cc50_grande.jpg"
                     },
                     {
-                        "h3": "",
-                        "contect": "",
-                        "img": ""
+                        "h3": "Vortex Flow",
+                        "contect": "Thông qua tấm tản nhiệt được đặt ở vị trí trọng yếu, Acer Predator Helios 300 PH315 55 76KG được tối ưu hóa luồng không khí, tăng khả năng làm mát tổng thể và giảm nhiệt độ bề mặt của chiếc laptop gaming khủng này.",
+                        "img": "https://file.hstatic.net/200000722513/file/gearvn-laptop-gaming-acer-predator-helios-300-ph315-55-76kg-__4__226928678e3046bd847748aa043ac439_grande.jpg"
                     },
                     {
-                        "h3": "",
-                        "contect": "",
-                        "img": ""
+                        "h3": "Nâng cao trải nghiệm gaming",
+                        "contect": "Acer Predator Helios 300 PH315 55 76KG sở hữu chiếc màn hình QHD, tần số quét vươn đến 165Hz mang lại trải nghiệm gaming tốt nhất cho game thủ. ",
+                        "img": "https://file.hstatic.net/200000722513/file/gearvn-laptop-gaming-acer-predator-helios-300-ph315-55-76kg-__11__6a05136c260f4986861792434a40d1cc_grande.jpg"
                     },
                     {
-                        "h3": "",
-                        "contect": "",
-                        "img": ""
+                        "h3": "Bàn phím RGB siêu đẹp ",
+                        "img": "https://file.hstatic.net/200000722513/file/gearvn-laptop-gaming-acer-predator-helios-300-ph315-55-76kg-__14__ec85a7201fca40ea90b8ac11f9a6da52_grande.jpg"
                     },
                     {
-                        "h3": "",
-                        "contect": "",
-                        "img": ""
+                        "contect": "Tôn lên vẻ đẹp đậm chất gaming không thể nào thiếu được chiếc bàn phím LED RGB 4 vùng trên Acer Predator Helios 300 PH315 54 758S, nổi bật trên cụm phím WASD. Acer còn mang đến 2 phím chức năng là: Turbo giúp tăng tối đa hiệu năng ngay lập tức và PredatorSense giúp mở ứng dụng tiện ích chỉ có trên Acer Predator tăng thêm phấn khích khi chơi game giải trí không khác gì việc sử dụng bàn phím cơ."
                     },
                     {
-                        "h3": "",
-                        "contect": "",
-                        "img": ""
+                        "h3": "Đa dạng các cổng kết nối",
+                        "contect": "Acer Predator Helios 300 đầy đủ các cổng USB 3.2 - bao gồm cả Thunderbolt ™ 4 USB-C cực nhanh - hỗ trợ chức năng DisplayPort và Power Delivery. Thông số kỹ thuật HDMI 2.1 mới nhất cũng cho phép bạn dễ dàng cắm vào màn hình bên ngoài như 8K60, 4K120 hoặc thậm chí 10K.",
+                        "img": "https://file.hstatic.net/200000722513/file/gearvn-laptop-gaming-acer-predator-helios-300-ph315-55-76kg-__22__f92450a7ffb646778bc819526680cc8e_grande.jpg"
                     },
                     {
-                        "h3": "",
-                        "contect": "",
-                        "img": ""
+                        "h3": "Kết nối online mạnh mẽ",
+                        "contect": "Trang bị Ethernet Intel ® Killer E2600 và Wi-Fi 6 và Control Center 2.0, bạn có tất cả các công cụ cần thiết để có một tốc độ mạng vượt trội đem lại trải nghiệm liền mạch trong các game online.",
+                        "img": "https://file.hstatic.net/200000722513/file/gearvn-laptop-gaming-acer-predator-helios-300-ph315-55-76kg-__6__2f13a2f203f445018df7acb69ddd66e9_grande.jpg"
                     },
                     {
-                        "h3": "",
-                        "contect": "",
-                        "img": ""
+                        "h3": "DTS:X ULTRA",
+                        "contect": "Công nghệ âm thanh DTS:X Ultra trên Acer Predator Helios 300 đem đến trải nghiệm thính giác tuyệt vời trong các tựa game, bài hát, bộ phim."
+                    }
+                ]
+            },
+            {
+                "name": "Laptop gaming Acer Nitro 5 Tiger AN515 58 5935",
+                "imgProduct": [
+                    "https://product.hstatic.net/200000722513/product/nitro-5-tiger_221e0f1045724a01afa55afa2ed821a1_grande.png",
+                    "https://product.hstatic.net/200000722513/product/tro-5-tiger-an515-58-5935-i5-12450h_1_4b09143d89a64741b6d0b2dc1dc9bb42_d4cd30458457451f8bc74004fc0bc8a6_grande.png",
+                    "https://product.hstatic.net/200000722513/product/tro-5-tiger-an515-58-5935-i5-12450h_2_600c0221a0e5460db6f65b12dab0435c_eb68ee159f074d0e87382ed3052244d6_grande.png",
+                    "https://product.hstatic.net/200000722513/product/tro-5-tiger-an515-58-5935-i5-12450h_3_5f8decd3ea8f46fa9c6926eed4fd0cd1_6acf0f7b298f433ea211b78e03a542f3_grande.png",
+                    "https://product.hstatic.net/200000722513/product/tro-5-tiger-an515-58-5935-i5-12450h_4_58627d00869a4270883f2139d7faa0f1_64e1a91c43bf4a96aa434cdf27e9419a_grande.png",
+                    "https://product.hstatic.net/200000722513/product/tro-5-tiger-an515-58-5935-i5-12450h_5_92f42eb19c0748c0b4389abbf1f4fd73_5b30b79343d946029ccd67af1d5b5d57_grande.png",
+                    "https://product.hstatic.net/200000722513/product/tro-5-tiger-an515-58-5935-i5-12450h_6_03ffc990dfd542d69ca4bb4a21ff4eac_73b792c49ac0416fa0a4a3f43958afdc_grande.png"
+                ],
+                "infoconfig": [
+                    {
+                        "Lable": "Thương Hiệu",
+                        "Name": "ACER"
                     },
                     {
-                        "h3": "",
-                        "contect": "",
-                        "img": ""
+                        "Lable": "Bảo hành",
+                        "Name": "12 tháng"
+                    },
+                    {
+                        "Lable": "Hệ điều hành",
+                        "Name": "Windows 11 Home"
+                    },
+                    {
+                        "Lable": "CPU",
+                        "Name": "Intel Core i5-12450H 3.3GHz up to 4.4GHz 12MB"
+                    },
+                    {
+                        "Lable": "Chip đồ họa",
+                        "Name": "NVIDIA® GeForce RTX™ 4080 6GB GDDR6"
+                    },
+                    {
+                        "Lable": "RAM",
+                        "Name": "8GB DDR5 4800MHz (2x SO-DIMM socket, up to 32GB SDRAM)"
+                    },
+                    {
+                        "Lable": "Màn hình",
+                        "Name": "512GB PCIe NVMe 4.0 SED SSD (Còn trống 1 khe SSD M.2 PCIE và 1 khe 2.5 SATA)"
+                    },
+                    {
+                        "Lable": "Bàn phím",
+                        "Name": "RGB 4 vùng"
+                    },
+                    {
+                        "Lable": "Webcam",
+                        "Name": "720p HD audio/video recording"
+                    },
+                    {
+                        "Lable": "Bảo mật",
+                        "Name": "None"
+                    },
+                    {
+                        "Lable": "Cổng xuất hình",
+                        "Name": "1x USB 3.2 Gen 2 Type-C Ports "
+                    },
+                    {
+                        "Lable": "Chuẩn WIFI & Bluetooth",
+                        "Name": "KillerTM Wi-Fi 6 AX 1650i (2x2) / Bluetooth® 5.1"
+                    },
+                    {
+                        "Lable": "Pin",
+                        "Name": "4 Cell 57.5WHr"
+                    },
+                    {
+                        "Lable": "Trọng lượng",
+                        "Name": "2.5 kg"
+                    },
+                    {
+                        "Lable": "Màu sắc",
+                        "Name": "Obsidian Black"
+                    },
+                    {
+                        "Lable": "Kích thước",
+                        "Name": "360.4 x 271.09 x 25.9 mm"
+                    }
+                ]
+            },
+            {
+                "name": "Laptop gaming Acer Nitro 16 Phoenix AN16 41 R50Z",
+                "imgProduct": [
+                    "https://product.hstatic.net/200000722513/product/nitro-16-phoenix-fix_3467007426d546af81cdb8e46543c923_grande.png",
+                    "https://product.hstatic.net/200000722513/product/o-16-phoenix-an16-41-r5m4-r5-7535hs_1_58e4285abbff437a9bf7460c0ad5ec1c_53488c48db1b460ca7a1928d2addfb72_grande.png",
+                    "https://product.hstatic.net/200000722513/product/o-16-phoenix-an16-41-r5m4-r5-7535hs_2_a0bd0205064948a6bcf1a0e94fd3a64b_677891e561fe48308d7ff277744f7f1e_grande.png",
+                    "https://product.hstatic.net/200000722513/product/o-16-phoenix-an16-41-r5m4-r5-7535hs_3_69e1eb6d576e415fb559410436b0aaf1_a3b076e2016942348de121f269687d5d_grande.png",
+                    "https://product.hstatic.net/200000722513/product/o-16-phoenix-an16-41-r5m4-r5-7535hs_4_0aa977523b5a4842b2afa4006aff9aa6_818c7865c9db4438a5c8ae61c8bd97c9_grande.png",
+                    "https://product.hstatic.net/200000722513/product/o-16-phoenix-an16-41-r5m4-r5-7535hs_6_298149f6aca24557b1ef05ef7cf2b492_f961fb179fd048f095a046f473b1dc9c_grande.png"
+                ],
+                "infoconfig": [
+                    {
+                        "Lable": "Thương Hiệu",
+                        "Name": "ACER"
+                    },
+                    {
+                        "Lable": "Bảo hành",
+                        "Name": "12 tháng"
+                    },
+                    {
+                        "Lable": "Hệ điều hành",
+                        "Name": "Windows 11 Home"
+                    },
+                    {
+                        "Lable": "CPU",
+                        "Name": "AMD Ryzen™ 5 7640HS 4.3GHz up to 5.0GHz 16MB"
+                    },
+                    {
+                        "Lable": "Chip đồ họa",
+                        "Name": "NVIDIA® GeForce RTX™ 4080 6GB GDDR6"
+                    },
+                    {
+                        "Lable": "RAM",
+                        "Name": "8GB (8x1) DDR5 5600MHz (2x SO-DIMM socket, up to 32GB SDRAM)"
+                    },
+                    {
+                        "Lable": "Màn hình",
+                        "Name": "16-inch WUXGA (1920 x 1200) IPS, Slim Bezel, 165Hz, 400 nits, sRGB 100%, Acer ComfyView™"
+                    },
+                    {
+                        "Lable": "Bàn phím",
+                        "Name": "RGB 4 vùng"
+                    },
+                    {
+                        "Lable": "Webcam",
+                        "Name": "720p HD video at 30 fps with Temporal Noise Reduction"
+                    },
+                    {
+                        "Lable": "Bảo mật",
+                        "Name": "None"
+                    },
+                    {
+                        "Lable": "Cổng xuất hình",
+                        "Name": "1x USB Type-C™ port"
+                    },
+                    {
+                        "Lable": "Chuẩn WIFI & Bluetooth",
+                        "Name": "Wi-Fi 6E (2x2) / v5.1"
+                    },
+                    {
+                        "Lable": "Pin",
+                        "Name": "4 cell, 90Whr"
+                    },
+                    {
+                        "Lable": "Trọng lượng",
+                        "Name": "2.7 kg"
+                    },
+                    {
+                        "Lable": "Màu sắc",
+                        "Name": "Obsidian Black"
+                    },
+                    {
+                        "Lable": "Kích thước",
+                        "Name": "360.1 x 279.9 x 25.9~27.9 (mm)"
+                    }
+                ]
+            },
+            {
+                "name": "Laptop gaming ASUS TUF F15 FX507ZC4 HN074W",
+                "imgProduct": [
+                    "https://product.hstatic.net/200000722513/product/hn074w-final_d1f17cfe60c0443e9bb78a02fa874a21_large_50e5daebd00147d7959f5decd617b193_grande.png",
+                    "https://product.hstatic.net/200000722513/product/w800__5__b6bcabcee7614241adb3a5219f8569df_grande.png",
+                    "https://product.hstatic.net/200000722513/product/w800__4__ba03bf92554444289b1f5d2b902ce022_grande.png",
+                    "https://product.hstatic.net/200000722513/product/w800__2__45cb8673db554af286e299b7b24c8bf2_grande.png",
+                    "https://product.hstatic.net/200000722513/product/w800__2__45cb8673db554af286e299b7b24c8bf2_grande.png",
+                    "https://product.hstatic.net/200000722513/product/w800__3__77eba7a589784f059cb1dd5230b1747d_grande.png",
+                    "https://product.hstatic.net/200000722513/product/w800__6__6acf248922194a60a3c3b4cbdafe9820_grande.png"
+                ],
+                "infoconfig": [
+                    {
+                        "Lable": "Thương Hiệu",
+                        "Name": "ASUS"
+                    },
+                    {
+                        "Lable": "Bảo hành",
+                        "Name": "24 tháng"
+                    },
+                    {
+                        "Lable": "Hệ điều hành",
+                        "Name": "Windows 11 Home"
+                    },
+                    {
+                        "Lable": "CPU",
+                        "Name": "Intel® Core™ i5-12500H Processor 2.5 GHz (18M Cache, up to 4.5 GHz, 12 cores: 4 P-cores and 8 E-cores)"
+                    },
+                    {
+                        "Lable": "Chip đồ họa",
+                        "Name": "NVIDIA GeForce RTX 3050 4GB GDDR6, Up to 1790MHz* at 95W (1740MHz Boost Clock+50MHz OC, 80W+15W Dynamic Boost) + MUX Switch + Optimus"
+                    },
+                    {
+                        "Lable": "RAM",
+                        "Name": "8GB DDR4 3200MHz (2x SO-DIMM socket, up to 32GB RAM)"
+                    },
+                    {
+                        "Lable": "Màn hình",
+                        "Name": "15.6-inch FHD (1920 x 1080) IPS, 144Hz, Wide View, 250nits, Narrow Bezel, Non-Glare with 45% NTSC, 62.5% sRGB"
+                    },
+                    {
+                        "Lable": "Bàn phím",
+                        "Name": "Backlit Chiclet Keyboard 1-Zone RGB"
+                    },
+                    {
+                        "Lable": "Webcam",
+                        "Name": "HD 720p"
+                    },
+                    {
+                        "Lable": "Bảo mật",
+                        "Name": "None"
+                    },
+                    {
+                        "Lable": "Cổng xuất hình",
+                        "Name": "1x Thunderbolt 4 support DisplayPort"
+                    },
+                    {
+                        "Lable": "Chuẩn WIFI & Bluetooth",
+                        "Name": "Wi-Fi 6(802.11ax) (Dual band) 2*2 / v5.2"
+                    },
+                    {
+                        "Lable": "Pin",
+                        "Name": "4 Cell 56WHr"
+                    },
+                    {
+                        "Lable": "Trọng lượng",
+                        "Name": "2.2 kg"
+                    },
+                    {
+                        "Lable": "Màu sắc",
+                        "Name": "Jaeger Gray"
+                    },
+                    {
+                        "Lable": "Kích thước",
+                        "Name": "35.4 x 25.1 x 2.24 ~ 2.49 cm"
+                    }
+                ],
+                "content": [
+                    {
+                        "h3": "Đánh giá chi tiết laptop gaming ASUS TUF F15 FX507Z HN074W",
+                        "contect": "Nếu Asus Vivobook và Asus Zenbook thống lĩnh thị trường laptop văn phòng, mỏng nhẹ thì phân khúc laptop gaming ASUS TUF Gaming chính là một cái tên đáng gờm. Tiếp nối sự thành công của những thế hệ trước - ASUS TUF F15 FX507Z HN074W sẽ là một cái tên đầy triển vọng và hứa hẹn gây sốt cho cộng đồng game thủ thời gian sắp tới.",
+                        "img": "https://file.hstatic.net/200000722513/file/gearvn-laptop-gaming-asus-tuf-f15-fx507zc4-hn074w-1_c55921982371473d8e4fe76a7bfdabae.png"
+                    },
+                    {
+                        "h3": "Thiết kế hiện đại, đậm chất gaming",
+                        "contect": "Sở hữu ngôn ngữ thiết kế hiện đại với tông màu xám đen mạnh mẽ, cuốn hút, ASUS TUF F15 FX507Z HN074W là sự trung hòa hoàn hảo giữa sự hầm hố, bụ bẫm vốn có của dòng laptop gaming với sự trẻ trung, thanh lịch phù hợp với newbie cũng như những game thủ chuyên nghiệp.",
+                        "img": "https://file.hstatic.net/200000722513/file/gearvn-laptop-gaming-asus-tuf-f15-fx507zc4-hn074w-11_13603266fb8e4227a1bc989b48230b43_1024x1024.png"
+                    },
+                    {
+                        "contect": "Laptop được hoàn thiện bằng chất liệu nhôm chắc chắn, tối ưu được một trọng lượng kha khá giúp máy tính nhẹ hơn khá nhiều so với những đối thủ khác trên thị trường. Phần logo TUF Gaming được đặt lệch sang một bên không những giúp nâng cao độ thẩm mỹ cho sản phẩm mà còn tăng độ nhận diện thương hiệu khi sử dụng."
+                    },
+                    {
+                        "h3": "Hiệu năng ASUS TUF F15 mạnh mẽ, ấn tượng",
+                        "contect": "Hầu hết laptop gaming đều được trang bị sức mạnh khủng, ASUS TUF F15 cũng không ngoại lệ. Bên trong là bộ vi xử lý Intel Core i5 thế hệ 12 mới nhất kết hợp với 8GB RAM DDR4 giúp máy đạt tốc độ xử lý cực nhanh. Card đồ họa rời NVIDIA GeForce RTX 3050 cho khả năng xử lý đồ họa và tái tạo hình ảnh mượt mà, bạn có thể chiêm ngưỡng mọi thước phim, từng chi tiết trong game một cách chi tiết và chân thật nhất.",
+                        "img": "https://file.hstatic.net/200000722513/file/gearvn-laptop-gaming-asus-tuf-f15-fx507zc4-hn074w-12_16807211e1054221905a2d94c013f66d_1024x1024.png"
+                    },
+                    {
+                        "contect": "Bên cạnh đó, ổ cứng SSD dung lượng 512GB cho phép bạn lưu trữ một khối lượng lớn dữ liệu và ứng dụng. Nếu như bạn cảm thấy nó chưa đủ để phục vụ nhu cầu sử dụng của bạn thì ASUS TUF F15 còn trống một khe SSD M.2 PCI-e để bạn có thể thoải mái nâng cấp khả năng lưu trữ trong tương lai."
+                    },
+                    {
+                        "h3": "Độ bền đạt tiêu chuẩn quân đội",
+                        "contect": "Hầu như các sản phẩm của nhà Asus từ màn hình máy tính đến laptop đều đạt độ bền chuẩn quân đội. Để xứng đáng với tên gọi TUF Gaming, chiếc laptop này phải vượt qua bài kiểm tra pin về độ bền chuẩn quân đội MIL-STD-810H. Các bài kiểm tra cho thiết bị bao gồm thả rơi và va đập, độ ẩm cao và nhiệt độ cực đoan nhằm đảm bảo độ laptop có thể vận hành ổn định ngay cả trong những môi trường khắc nghiệt nhất.",
+                        "img": "https://file.hstatic.net/200000722513/file/gearvn-laptop-gaming-asus-tuf-f15-fx507zc4-hn074w-10_56fb9a7942584565b8b24d6153eb8b84_1024x1024.png"
+                    },
+                    {
+                        "h3": "Màn hình hiển thị chất lượng",
+                        "contect": "ASUS TUF F15 FX507Z HN074W được trang bị màn hình kích thước 15.6 inch, độ phân giải Full HD dưới tấm nền IPS cho khả năng tái tạo hình ảnh sống động, sắc nét và chân thật. Với công nghệ Adaptive-Sync, tần số quét 144Hz đồng bộ với tốc độ khung hình của GPU để giảm thiểu hiện tượng giật, lag hay xé màn hình, cho trải nghiệm chơi game siêu mượt mà.",
+                        "img": "https://file.hstatic.net/200000722513/file/gearvn-laptop-gaming-asus-tuf-f15-fx507zc4-hn074w-6_4322ba45708e4cf88c9157bee366be58.png"
+                    },
+                    {
+                        "h3": "Trải nghiệm gõ phím ấn tượng",
+                        "contect": "Layout bàn phím fullsize với đầy đủ cả dãy phím số và phím chức năng, bạn có thể thực hiện mọi tác vụ như gõ văn bản, nhập liệu và code một cách dễ dàng. Bàn phím sở hữu hành trình phím sâu, độ nảy tốt cho trải nghiệm gõ phím tuyệt vời tạo cảm giác không khác gì gõ các dòng bàn phím cơ cao cấp. Đồng thời các phím hotkey được làm nổi bật để bạn thao tác các lệnh quan trọng nhanh hơn.",
+                        "img": "https://file.hstatic.net/200000722513/file/gearvn-laptop-gaming-asus-tuf-f15-fx507zc4-hn074w-4_36ece7e8fd3b427da8c1cca20ce675bc.png"
+                    },
+                    {
+                        "h3": "Cổng kết nối tiện lợi",
+                        "contect": "ASUS TUF F15 được trang bị đầy đủ các cổng kết nối thông dụng và phổ biến nhất hiện nay như Thunderbolt 4, HDMI, USB Type-A và USB Type-C để bạn dễ dàng kết nối nhanh với các thiết bị bên ngoài, truyền dữ liệu tốc độ ấn tượng hay sạc nhanh cho các thiết bị di động khác một cách dễ dàng.",
+                        "img": "https://file.hstatic.net/200000722513/file/gearvn-laptop-gaming-asus-tuf-f15-fx507zc4-hn074w-7_0189f2ae05a34d1d8ccffbb4a19c468b.png"
+                    }
+                ]
+            },
+            {
+                "name": "Laptop gaming ASUS ROG Flow X16 GV601VV NL016W",
+                "imgProduct": [
+                    "https://product.hstatic.net/200000722513/product/nl016w_9c6e32c59665427fad41082635402de6_grande.png",
+                    "https://product.hstatic.net/200000722513/product/ng-asus-rog-flow-x16-gv601vv-nl016w-1_35a69f60125442b99666f148953d24d2_75f4dd6fcdd94c9792b88a3e707e8674_grande.jpg",
+                    "https://product.hstatic.net/200000722513/product/ng-asus-rog-flow-x16-gv601vv-nl016w-2_c2040debc6954824bc62f43ca1bcf1bf_a70461741d97449caf37492847a61be4_grande.jpg",
+                    "https://product.hstatic.net/200000722513/product/ng-asus-rog-flow-x16-gv601vv-nl016w-3_9021ea18f131449ca99b210b7b6fc58d_899b3e465a7e4e2683088e05012f3e68_grande.jpg",
+                    "https://product.hstatic.net/200000722513/product/ng-asus-rog-flow-x16-gv601vv-nl016w-4_34dd2cde5b2b4e37978c57d3af5f345d_fa672dcb986641679e922ecb49fbd635_grande.jpg",
+                    "https://product.hstatic.net/200000722513/product/ng-asus-rog-flow-x16-gv601vv-nl016w-5_1331bd2a6da1472ab9c71db3d7fc1c3c_6e8fb12f7ddb491ca6e9ab27a475cb63_grande.jpg"
+                ],
+                "infoconfig": [
+                    {
+                        "Lable": "Thương Hiệu",
+                        "Name": "ASUS"
+                    },
+                    {
+                        "Lable": "Bảo hành",
+                        "Name": "24 tháng"
+                    },
+                    {
+                        "Lable": "Hệ điều hành",
+                        "Name": "Windows 11 Home"
+                    },
+                    {
+                        "Lable": "CPU",
+                        "Name": "Intel Core i9-13900H Processor 2.6 GHz (24M Cache, up to 5.4 GHz, 14 cores: 6 P-cores and 8 E-cores)"
+                    },
+                    {
+                        "Lable": "Chip đồ họa",
+                        "Name": "NVIDIA® GeForce RTX™ 4060 Laptop GPU 8GB GDDR6, ROG Boost: 2300MHz* at 120W (2250MHz Boost Clock+50MHz OC, 100W+20W Dynamic Boost)"
+                    },
+                    {
+                        "Lable": "RAM",
+                        "Name": "16GB (8GBx2) DDR5 4800Mhz (Nâng cấp tối đa 64GB Ram)"
+                    },
+                    {
+                        "Lable": "Màn hình",
+                        "Name": "16-inch QHD+ 16:10 (2560 x 1600, WQXGA), 240Hz, Mini LED, 1100nits, DCI-P3 100%, Glossy Display, Pantone Validated, ROG Nebula HDR Display"
+                    },
+                    {
+                        "Lable": "Bàn phím",
+                        "Name": "Backlit Chiclet Keyboard 1-Zone RGB"
+                    },
+                    {
+                        "Lable": "Webcam",
+                        "Name": "1080P FHD IR Camera for Windows Hello"
+                    },
+                    {
+                        "Lable": "Bảo mật",
+                        "Name": "None"
+                    },
+                    {
+                        "Lable": "Cổng xuất hình",
+                        "Name": "1x Thunderbolt™ 4 support DisplayPort™"
+                    },
+                    {
+                        "Lable": "Chuẩn WIFI & Bluetooth",
+                        "Name": "Wi-Fi 6E(802.11ax) / Bluetooth 5.2 (Dual band) 2*2"
+                    },
+                    {
+                        "Lable": "Pin",
+                        "Name": "90WHrs, 4S1P, 4-cell Li-ion"
+                    },
+                    {
+                        "Lable": "Trọng lượng",
+                        "Name": "2.20 kg"
+                    },
+                    {
+                        "Lable": "Màu sắc",
+                        "Name": "Off Black"
+                    },
+                    {
+                        "Lable": "Kích thước",
+                        "Name": "35.5 x 24.3 x 1.94 ~ 2.19 cm"
+                    }
+                ]
+            },
+            {
+                "name": "Laptop gaming ASUS ROG Flow X13 GV302XU MU223W",
+                "imgProduct": [
+                    "https://product.hstatic.net/200000722513/product/mu223w_e8cd9c186d034d1892f20b023077fed7_grande.png",
+                    "https://product.hstatic.net/200000722513/product/h732__1__da3d045e465e4eb4b687c9c5c8f9c307_grande.png",
+                    "https://product.hstatic.net/200000722513/product/h732__2__221b52e3056647598e672b82455705b1_grande.png",
+                    "https://product.hstatic.net/200000722513/product/h732__7__52fe3dc055ae426f932bd17b9901a3fd_grande.png",
+                    "https://product.hstatic.net/200000722513/product/h732__8__c63818c32e604c9281c001375735a8d0_grande.png",
+                    "https://product.hstatic.net/200000722513/product/h732__9__87dbad594b834893874e1a023f6d69d0_grande.png",
+                    "https://product.hstatic.net/200000722513/product/h732__5__6f2004e2676449708b486f9aae43a4c7_grande.png"
+                ],
+                "infoconfig": [
+                    {
+                        "Lable": "Thương Hiệu",
+                        "Name": "ASUS"
+                    },
+                    {
+                        "Lable": "Bảo hành",
+                        "Name": "24 tháng"
+                    },
+                    {
+                        "Lable": "Hệ điều hành",
+                        "Name": "Windows 11 Home"
+                    },
+                    {
+                        "Lable": "CPU",
+                        "Name": "AMD Ryzen 9 7940HS Mobile Processor (8-core/16-thread, 16MB L3 cache, up to 5.2 GHz max boost)"
+                    },
+                    {
+                        "Lable": "Chip đồ họa",
+                        "Name": "NVIDIA GeForce RTX 4050 6GB GDDR6 With ROG Boost: 1655MHz* at 60W (1605MHz Boost Clock+50MHz OC, 45W+15W Dynamic Boost) + MUX Switch + Optimus AMD Radeon™ 780M"
+                    },
+                    {
+                        "Lable": "RAM",
+                        "Name": "16GB (8x2) LPDDR5 6400Mhz Onboard"
+                    },
+                    {
+                        "Lable": "Màn hình",
+                        "Name": "13.4-inch QHD+ 16:10 (2560 x 1600, WQXGA), Touch, IPS, 165Hz, 3ms, 500Nits, 100% DCI-P3, ROG Nebula Display"
+                    },
+                    {
+                        "Lable": "Bàn phím",
+                        "Name": "Backlit Chiclet Keyboard Single Light"
+                    },
+                    {
+                        "Lable": "Webcam",
+                        "Name": "1080P FHD IR Camera for Windows Hello"
+                    },
+                    {
+                        "Lable": "Bảo mật",
+                        "Name": "None"
+                    },
+                    {
+                        "Lable": "Cổng xuất hình",
+                        "Name": "1x USB 3.2 Gen 2 Type-C support DisplayPort™ / power delivery"
+                    },
+                    {
+                        "Lable": "Chuẩn WIFI & Bluetooth",
+                        "Name": "Wi-Fi 6E(802.11ax) (Triple band) 2*2 / v5.2"
+                    },
+                    {
+                        "Lable": "Pin",
+                        "Name": "75WHrs, 4S1P, 4-cell Li-ion"
+                    },
+                    {
+                        "Lable": "Trọng lượng",
+                        "Name": "1.3 kg"
+                    },
+                    {
+                        "Lable": "Màu sắc",
+                        "Name": "Off Black"
+                    },
+                    {
+                        "Lable": "Kích thước",
+                        "Name": "29.9 x 21.2 x 1.67 ~ 1.87 cm"
+                    }
+                ]
+            },
+            {
+                "name": "Laptop gaming MSI GF63 12UCX 841VN",
+                "imgProduct": [
+                    "https://product.hstatic.net/200000722513/product/gf63-final_6ce8b15400404b2baf9632d843a2c4c7_grande.png",
+                    "https://product.hstatic.net/200000722513/product/gearvn-laptop-gaming-msi-gf63-12ucx-841vn-1_83367dc979e44fb7b843f6121e10ac6f_grande.jpg",
+                    "https://product.hstatic.net/200000722513/product/gearvn-laptop-gaming-msi-gf63-12ucx-841vn-2_a3dc17243fec4480bd5483c11cf9e971_grande.jpg",
+                    "https://product.hstatic.net/200000722513/product/gearvn-laptop-gaming-msi-gf63-12ucx-841vn-3_f3bd75a3c7624f3fb4a79e82569bfdfe_grande.jpg",
+                    "https://product.hstatic.net/200000722513/product/gearvn-laptop-gaming-msi-gf63-12ucx-841vn-4_699978afa6a14b87be2d3bb531f3a4e2_grande.jpg",
+                    "https://product.hstatic.net/200000722513/product/gearvn-laptop-gaming-msi-gf63-12ucx-841vn-5_65a856afcba043559d1797a5bb0d8d70_grande.jpg"
+                ],
+                "infoconfig": [
+                    {
+                        "Lable": "Thương Hiệu",
+                        "Name": "MSI"
+                    },
+                    {
+                        "Lable": "Bảo hành",
+                        "Name": "12 tháng"
+                    },
+                    {
+                        "Lable": "Hệ điều hành",
+                        "Name": "Windows 11 Home"
+                    },
+                    {
+                        "Lable": "CPU",
+                        "Name": "Intel Core i5-12450H 3.3GHz up to 4.40GHz 12MB, 8 nhân, 12 luồng"
+                    },
+                    {
+                        "Lable": "Chip đồ họa",
+                        "Name": "Nvidia Geforce RTX 3050 4GB GDDR6"
+                    },
+                    {
+                        "Lable": "RAM",
+                        "Name": "8GB (8x1) DDR4 3200MHz (2x SO-DIMM socket, up to 64GB SDRAM)"
+                    },
+                    {
+                        "Lable": "Màn hình",
+                        "Name": "15.6-inch FHD (1920 x 1080) IPS 144Hz, Thin Bezel, 45%NTSC"
+                    },
+                    {
+                        "Lable": "Bàn phím",
+                        "Name": "Single LED Red"
+                    },
+                    {
+                        "Lable": "Webcam",
+                        "Name": "HD type (30fps@720p)"
+                    },
+                    {
+                        "Lable": "Bảo mật",
+                        "Name": "None"
+                    },
+                    {
+                        "Lable": "Cổng xuất hình",
+                        "Name": "1x (4K @ 30Hz) HDMI"
+                    },
+                    {
+                        "Lable": "Chuẩn WIFI & Bluetooth",
+                        "Name": "802.11 ax Wi-Fi 6 / v5.2"
+                    },
+                    {
+                        "Lable": "Pin",
+                        "Name": "3 Cell 52.4 WHr"
+                    },
+                    {
+                        "Lable": "Trọng lượng",
+                        "Name": "1.86 kg"
+                    },
+                    {
+                        "Lable": "Màu sắc",
+                        "Name": "Đen"
+                    },
+                    {
+                        "Lable": "Kích thước",
+                        "Name": "359 x 254 x 21.5 mm"
+                    }
+                ]
+            },
+            {
+                "name": "Laptop gaming MSI GP68HX 13VH 252VN",
+                "imgProduct": [
+                    "https://product.hstatic.net/200000722513/product/ava_8ffb16894be446228df28583299284b6_grande.png",
+                    "https://product.hstatic.net/200000722513/product/929d45e5-6cfc-423e-8e99-d98615fe1a8e.d1484f8fa8ef32c88cbbe29ece145b63_710bffcb77d344458dcf2e61db284eb1_grande.jpeg",
+                    "https://product.hstatic.net/200000722513/product/6457a92d-7cc1-497e-b560-8b24452d5edc.3555e649dde0e518a517337590e68b29_1711b7fd400d43c0ad7c5d2142a2a8fb_grande.jpeg",
+                    "https://product.hstatic.net/200000722513/product/1024_c24b4430ac664344ba958eedae9952c9_grande.png",
+                    "https://product.hstatic.net/200000722513/product/1024__1__7c7922b801034d399b7808942459606a_grande.png",
+                    "https://product.hstatic.net/200000722513/product/1024__2__8b7c818c476340a181fea9a5073af510_grande.png"
+                ],
+                "infoconfig": [
+                    {
+                        "Lable": "Thương Hiệu",
+                        "Name": "ASUS"
+                    },
+                    {
+                        "Lable": "Bảo hành",
+                        "Name": "12 tháng"
+                    },
+                    {
+                        "Lable": "Hệ điều hành",
+                        "Name": "Windows 11 Home"
+                    },
+                    {
+                        "Lable": "CPU",
+                        "Name": "Intel Core i9-13950HX (Up to 5.5GHz) 24 Cores 32 Threads"
+                    },
+                    {
+                        "Lable": "Chip đồ họa",
+                        "Name": "NVIDIA® GeForce RTX™ 4080 Laptop GPU 12GB GDDR6"
+                    },
+                    {
+                        "Lable": "RAM",
+                        "Name": "16GB DDR5 5600MHz (2x SO-DIMM socket, up to 64GB SDRAM)"
+                    },
+                    {
+                        "Lable": "Màn hình",
+                        "Name": "16inch FHD+(1920 x 1200) 16:10, 144Hz, IPS-level"
+                    },
+                    {
+                        "Lable": "Bàn phím",
+                        "Name": "Per-Key RGB Gaming Keyboard by SteelSeries"
+                    },
+                    {
+                        "Lable": "Webcam",
+                        "Name": "IR HD type (30fps@720p)"
+                    },
+                    {
+                        "Lable": "Bảo mật",
+                        "Name": "None"
+                    },
+                    {
+                        "Lable": "Cổng xuất hình",
+                        "Name": "1x HDMI™ 2.1 (8K @ 60Hz / 4K @ 120Hz)"
+                    },
+                    {
+                        "Lable": "Chuẩn WIFI & Bluetooth",
+                        "Name": "802.11 ax Wi-Fi 6E / v5.3"
+                    },
+                    {
+                        "Lable": "Pin",
+                        "Name": "4 cell, 90Whr"
+                    },
+                    {
+                        "Lable": "Trọng lượng",
+                        "Name": "2.67 kg"
+                    },
+                    {
+                        "Lable": "Màu sắc",
+                        "Name": "Cosmos Gray"
+                    },
+                    {
+                        "Lable": "Kích thước",
+                        "Name": "357 x 284.05 x 22.20~28.55 mm"
                     }
                 ]
             }

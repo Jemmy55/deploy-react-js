@@ -147,19 +147,19 @@
                 }
             },
             {
-                "id": "",
-                "name": "",
-                "imgViewer": "",
-                "pricetoPay": "",
-                "priceOrinal": "",
-                "sale": "",
-                "Gender": [],
+                "id": "10",
+                "name": "Laptop MSI Summit E14 Evo A12M 211VN",
+                "imgViewer": "https://product.hstatic.net/200000722513/product/aptop-msi-summit-e14-evo-a12m-211vn-1_5fc0898020c44422b37c9293db1c3edb_d48b2ea8b32449e09f359198932f6f25_grande.png",
+                "pricetoPay": "22490",
+                "priceOrinal": "25990",
+                "sale": "13",
+                "Gender": ["Laptop" , "MSI" , "Học tập"],
                 "config": {
-                    "cpu": "",
-                    "ram": "",
-                    "ssd": "",
-                    "vga": "",
-                    "display": ""
+                    "cpu": "Intel Core i7-1280P",
+                    "ram": "16GB LPDDR5 4800Mhz",
+                    "ssd": "512GB SSD M.2 PCIe NVMe",
+                    "vga": "Intel Iris Xe Graphics",
+                    "display": "14 Inch FHD (1920x1200)"
                 }
             }
         ]
@@ -168,163 +168,131 @@
         "id": "LaptopGaming",
         "Product": [
             {
-                "id": "",
-                "name": "",
-                "imgViewer": "",
-                "pricetoPay": "",
-                "priceOrinal": "",
-                "sale": "",
-                "Gender": [],
+                "id": "1",
+                "name": "Laptop gaming Acer Predator Helios 300 PH315 55 76KG",
+                "imgViewer": "https://product.hstatic.net/200000722513/product/76kg_1433e407838944df88bd906b57729c0a_grande.png",
+                "pricetoPay": "30990",
+                "priceOrinal": "48490",
+                "sale": "36",
+                "Gender": ["LaptopGaming" , "Học tập" , "Chơi game" , "ACER"],
                 "config": {
-                    "cpu": "",
-                    "ram": "",
-                    "ssd": "",
-                    "vga": "",
-                    "display": ""
+                    "cpu": "Intel Core i7-12700H",
+                    "ram": "16GB DDR5 4800Mhz (2x8GB)",
+                    "ssd": "512GB NVMe PCIe Gen3x4",
+                    "vga": "NVIDIA GeForce RTX 3060 ",
+                    "display": "15.6 inch QHD (2560 x1440)"
                 }
             },
             {
-                "id": "",
-                "name": "",
-                "imgViewer": "",
-                "pricetoPay": "",
-                "priceOrinal": "",
-                "sale": "",
-                "Gender": [],
+                "id": "2",
+                "name": "Laptop gaming Acer Nitro 5 Tiger AN515 58 5935",
+                "imgViewer": "https://product.hstatic.net/200000722513/product/nitro-5-tiger_221e0f1045724a01afa55afa2ed821a1_1024x1024.png",
+                "pricetoPay": "25490",
+                "priceOrinal": "26990",
+                "sale": "6",
+                "Gender": ["LaptopGaming" , "Học tập" , "Chơi Game"],
                 "config": {
-                    "cpu": "",
-                    "ram": "",
-                    "ssd": "",
-                    "vga": "",
-                    "display": ""
+                    "cpu": "Intel Core i5-12450H",
+                    "ram": "8GB DDR5 4800MHz",
+                    "ssd": "512GB PCIe NVMe 4.0",
+                    "vga": "NVIDIA GeForce RTX 4080 6GB GDDR6",
+                    "display": "15.6-inch FHD (1920 x 1080)"
                 }
             },
             {
-                "id": "",
-                "name": "",
-                "imgViewer": "",
-                "pricetoPay": "",
-                "priceOrinal": "",
-                "sale": "",
-                "Gender": [],
+                "id": "3",
+                "name": "Laptop gaming Acer Nitro 16 Phoenix AN16 41 R50Z",
+                "imgViewer": "https://product.hstatic.net/200000722513/product/nitro-16-phoenix-fix_3467007426d546af81cdb8e46543c923_grande.png",
+                "pricetoPay": "28990",
+                "priceOrinal": "30990",
+                "sale": "6",
+                "Gender": ["LaptopGaming" , "Acer" , "Học tập" , "Chơi game"],
                 "config": {
-                    "cpu": "",
-                    "ram": "",
-                    "ssd": "",
-                    "vga": "",
-                    "display": ""
+                    "cpu": "AMD Ryzen 5 7640HS",
+                    "ram": "8GB (8x1) DDR5 5600MHz",
+                    "ssd": "512GB PCIe NVMe",
+                    "vga": "NVIDIA GeForce RTX 4080 6GB GDDR6",
+                    "display": "16-inch WUXGA (1920 x 1200)"
                 }
             },
             {
-                "id": "",
-                "name": "",
-                "imgViewer": "",
-                "pricetoPay": "",
-                "priceOrinal": "",
-                "sale": "",
-                "Gender": [],
+                "id": "4",
+                "name": "Laptop gaming ASUS TUF F15 FX507ZC4 HN074W",
+                "imgViewer": "https://product.hstatic.net/200000722513/product/hn074w-final_d1f17cfe60c0443e9bb78a02fa874a21_large_50e5daebd00147d7959f5decd617b193_grande.png",
+                "pricetoPay": "19990",
+                "priceOrinal": "25990",
+                "sale": "23",
+                "Gender": ["LaptopGaming" , "Học tập" , "Chơi Game" , "ASUS"],
                 "config": {
-                    "cpu": "",
-                    "ram": "",
-                    "ssd": "",
-                    "vga": "",
-                    "display": ""
+                    "cpu": "Intel Core i5-12500H",
+                    "ram": "8GB DDR4 3200MHz",
+                    "ssd": "512GB SSD M.2",
+                    "vga": "NVIDIA GeForce RTX 3050",
+                    "display": "15.6-inch FHD (1920 x 1080) IPS"
                 }
             },
             {
-                "id": "",
-                "name": "",
-                "imgViewer": "",
-                "pricetoPay": "",
-                "priceOrinal": "",
-                "sale": "",
-                "Gender": [],
+                "id": "5",
+                "name": "Laptop gaming ASUS ROG Flow X16 GV601VV NL016W",
+                "imgViewer": "https://product.hstatic.net/200000722513/product/nl016w_9c6e32c59665427fad41082635402de6_grande.png",
+                "pricetoPay": "59490",
+                "priceOrinal": "65990",
+                "sale": "10",
+                "Gender": ["LaptopGaming" , "ASUS" , "Học tập", "Chơi game"],
                 "config": {
-                    "cpu": "",
-                    "ram": "",
-                    "ssd": "",
-                    "vga": "",
-                    "display": ""
+                    "cpu": "Intel Core i9-13900H",
+                    "ram": "16GB (8GBx2) DDR5 4800Mhz",
+                    "ssd": "1TB PCIe 4.0 NVMe",
+                    "vga": "NVIDIA GeForce RTX 4080",
+                    "display": "16-inch QHD+ 16:10 (2560 x 1600, WQXGA)"
                 }
             },
             {
-                "id": "",
-                "name": "",
-                "imgViewer": "",
-                "pricetoPay": "",
-                "priceOrinal": "",
-                "sale": "",
-                "Gender": [],
+                "id": "6",
+                "name": "Laptop gaming ASUS ROG Flow X13 GV302XU MU223W",
+                "imgViewer": "https://product.hstatic.net/200000722513/product/mu223w_e8cd9c186d034d1892f20b023077fed7_grande.png",
+                "pricetoPay": "44990",
+                "priceOrinal": "52990",
+                "sale": "15",
+                "Gender": ["LaptopGaming" , "ASUS" , "Học tập" , "Chơi Game"],
                 "config": {
-                    "cpu": "",
-                    "ram": "",
-                    "ssd": "",
-                    "vga": "",
-                    "display": ""
+                    "cpu": "AMD Ryzen 9 7940HS",
+                    "ram": "16GB (8x2) LPDDR5",
+                    "ssd": "1TB M.2 2230 NVMe",
+                    "vga": "NVIDIA GeForce RTX 4090",
+                    "display": "13.4-inch QHD+ 16:10"
                 }
             },
             {
-                "id": "",
-                "name": "",
-                "imgViewer": "",
-                "pricetoPay": "",
-                "priceOrinal": "",
-                "sale": "",
-                "Gender": [],
+                "id": "7",
+                "name": "Laptop gaming MSI GF63 12UCX 841VN",
+                "imgViewer": "https://product.hstatic.net/200000722513/product/gf63-final_6ce8b15400404b2baf9632d843a2c4c7_grande.png",
+                "pricetoPay": "15790",
+                "priceOrinal": "17990",
+                "sale": "12",
+                "Gender": ["LaptopGaming" , "Học tập" , "Chơi Game" , "ASUS"],
                 "config": {
-                    "cpu": "",
-                    "ram": "",
-                    "ssd": "",
-                    "vga": "",
-                    "display": ""
+                    "cpu": "Intel Core i5-12450H",
+                    "ram": "8GB (8x1) DDR4 3200MHz",
+                    "ssd": "512GB NVMe PCIe Gen 4x4",
+                    "vga": "Nvidia Geforce RTX 3050 4GB GDDR6",
+                    "display": "15.6-inch FHD (1920 x 1080) IPS 144Hz, Thin Bezel, 45%NTSC"
                 }
             },
             {
-                "id": "",
-                "name": "",
-                "imgViewer": "",
-                "pricetoPay": "",
-                "priceOrinal": "",
-                "sale": "",
-                "Gender": [],
+                "id": "8",
+                "name": "Laptop gaming MSI GP68HX 13VH 252VN",
+                "imgViewer": "https://product.hstatic.net/200000722513/product/ava_8ffb16894be446228df28583299284b6_grande.png",
+                "pricetoPay": "57990",
+                "priceOrinal": "61990",
+                "sale": "6",
+                "Gender": ["LaptopGaming" , "Học tập" , "Chơi Game" , "ASUS"],
                 "config": {
-                    "cpu": "",
-                    "ram": "",
-                    "ssd": "",
-                    "vga": "",
-                    "display": ""
-                }
-            },
-            {
-                "id": "",
-                "name": "",
-                "imgViewer": "",
-                "pricetoPay": "",
-                "priceOrinal": "",
-                "sale": "",
-                "Gender": [],
-                "config": {
-                    "cpu": "",
-                    "ram": "",
-                    "ssd": "",
-                    "vga": "",
-                    "display": ""
-                }
-            },
-            {
-                "id": "",
-                "name": "",
-                "imgViewer": "",
-                "pricetoPay": "",
-                "priceOrinal": "",
-                "sale": "",
-                "Gender": [],
-                "config": {
-                    "cpu": "",
-                    "ram": "",
-                    "ssd": "",
-                    "vga": "",
-                    "display": ""
+                    "cpu": "Intel Core i9-13950HX",
+                    "ram": "16GB DDR5 5600MHz",
+                    "ssd": "1TB NVMe PCIe Gen4x4",
+                    "vga": "NVIDIA GeForce RTX 4080",
+                    "display": "16inch FHD+(1920 x 1200)"
                 }
             }
         ]
