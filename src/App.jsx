@@ -20,13 +20,13 @@ function App() {
     <>
       <BrowserRouter>
           <Routes>
-            <Route path='/' element={<HomePage />}>
+            <Route path='/deploy-react-js/' element={<HomePage />}>
               <Route index element={<ContentComponent />} />
-              <Route path='/:allproduct/' element={<ProductListComponent banner={banner} data={dataProduct} />} />
-              <Route path='/:allproduct/:nameGender' element={<ProductListComponent banner={banner} data={dataAPI} />} />
-              <Route path='/:allproduct/:nameGender/:product' element={<ProductListComponent banner={banner} data={dataAPI} />} />
-              <Route path='/:allproduct/:nameGender/:product/:id' element={<ProductComponent />} />
-              <Route path='/cart' element={<CardBuyComponent />} />
+              <Route path='/deploy-react-js/:allproduct/' element={<ProductListComponent banner={banner} data={dataProduct} />} />
+              <Route path='/deploy-react-js/:allproduct/:nameGender' element={<ProductListComponent banner={banner} data={dataAPI} />} />
+              <Route path='/deploy-react-js/:allproduct/:nameGender/:product' element={<ProductListComponent banner={banner} data={dataAPI} />} />
+              <Route path='/deploy-react-js/:allproduct/:nameGender/:product/:id' element={<ProductComponent />} />
+              <Route path='/deploy-react-js/cart' element={<CardBuyComponent />} />
             </Route>
           </Routes>
       </BrowserRouter >
