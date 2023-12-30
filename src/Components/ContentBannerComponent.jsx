@@ -48,8 +48,8 @@ function ContentBannerComponent({ offbanner }) {
                             <ul>
                                 <li name="Laptop" onMouseOver={(e) => handleGet(e)} onClick={(e) => handleClick(e)} >Laptop <ChevronRight className="icon-arow-menu" /></li>
                                 <li name="LaptopGaming" onMouseOver={(e) => handleGet(e)} onClick={(e) => handleClick(e)} >Laptop Gaming <ChevronRight className="icon-arow-menu" /> </li>
-                                <li name="PCGaming" onMouseOver={(e) => handleGet(e)} onClick={(e) => handleClick(e)} >PC Gaming <ChevronRight className="icon-arow-menu" /> </li>
-                                <li name="PCOffice" onMouseOver={(e) => handleGet(e)} onClick={(e) => handleClick(e)} >PC Office <ChevronRight className="icon-arow-menu" /> </li>
+                                {/* <li name="PCGaming" onMouseOver={(e) => handleGet(e)} onClick={(e) => handleClick(e)} >PC Gaming <ChevronRight className="icon-arow-menu" /> </li>
+                                <li name="PCOffice" onMouseOver={(e) => handleGet(e)} onClick={(e) => handleClick(e)} >PC Office <ChevronRight className="icon-arow-menu" /> </li> */}
                             </ul>
                             <div className="data-menu">
                                 <div className="data-box"
