@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+html,body{
+    overflow-x: hidden;
+  }
+.headerFixed{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 100;
+    background-color: #fff;
+    border-bottom: 1px solid #000;
+}
+.BannerTop{
+    margin-top: 80px;
+    height: 475px;
+    img{
+        display: block;
+        width: 100%;
+        height: 475px;
+    }
+}
+.Product{
+    position: fixed;
+    top: 100px;
+}
+
+
+@media (min-width: 1442px) {
+    .BannerTop{
+        width: 100%;
+    }
+    .headerFixed{
+        .data-menu{
+            width: 950px;
+        }
+    }
+}

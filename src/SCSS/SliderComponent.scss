@@ -1,0 +1,23 @@
+.slider{
+    width: 62.2%;
+    margin: 0 auto;
+    height: 10px;
+    background-color: #f2f2f2;
+    margin-top: 5px;
+    border-radius: 10px;
+    border: 1px solid #000;
+}
+.slider .thumb{
+    width: 17px;
+    height: 17px;
+    cursor: grab;
+    background: #E30019;
+    border-radius: 50%;
+    border: 2px solid #fff;
+    top: -4.5px;
+}
+.box-money{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 15px;
+}

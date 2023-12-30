@@ -1,0 +1,162 @@
+
+.content{
+    display: block;
+    width: 100%;
+    ul{
+        padding: 0;
+    }
+    .context-menu{
+        .sub-menu{
+            background-color: #fff;
+            width: 290px;
+            padding: 8px 15px;
+            position: relative;
+            border-radius: 15px;
+            .icon-arow-menu{
+                margin-bottom: 2.5px;
+            }
+            ul > li {
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                padding: 5px 15px;
+                cursor: pointer;
+            }
+            ul > li::before{
+                content: "";
+                position: absolute;
+                width: 0;
+                height: 0;
+                border: solid;
+                border-width: 17.5px;
+                border-color:  transparent transparent transparent red;
+                z-index: 2;
+                transform: translateX(284px);
+                opacity: 0;
+            }
+            ul > li:hover::before{
+                opacity: 1;
+            }
+            ul > li:hover{
+                background-color: red;
+                width: 115%;
+                color: #fff;
+            }
+        }
+        .sub-menu > ul:hover + .data-menu{
+            opacity: 1;
+            pointer-events: visible;
+        }
+        .data-menu:hover{
+            opacity: 1;
+            pointer-events: visible;
+        }
+        .data-menu{
+            background-color: #fff;
+            width: 980px;
+            height: 338px;
+            position: absolute;
+            top:   0;
+            left: 110%;
+            border: 1px solid #000;
+            border-radius: 10px;
+            z-index: 1;
+            opacity: 0;
+            pointer-events: none;
+            .data-box{
+                margin: 2% auto;
+                width: 90%;
+                justify-content: space-around;
+                h4{
+                    font-size: 22px;
+                    font-weight: 700;
+                }
+                .child-menu{
+                    h4{
+                        color: #E30019;
+                    }
+                    li{
+                        margin-left: 10px;
+                        line-height: 40px;
+                        position: relative;
+                        a{
+                            font-size: 16.5px;
+                            font-weight: 500;
+                        }
+                    }
+                    ul > li::after{
+                        position: absolute;
+                        content: "";
+                        width: 0%;
+                        height: 2px;
+                        background-color: red;
+                        left: 15px;
+                        bottom: 10px;
+                        transition: 0.8s linear;
+                    }
+                    ul > li:hover::after{
+                        width: 30%;
+                    }
+                    ul > li:hover{
+                        a{
+                            color: red;
+                        }
+                        background-color: #fff;
+                    }
+                }
+            }
+            ul > li::before{
+                display: none;
+            }
+            a{
+                text-decoration: none;
+                color: #000;
+            }
+        }
+        .banner-menu{
+            width: 100%;
+            height: 338px;
+            background-position: center;
+        }
+        .carousel, .slide,
+        .carousel .carousel-inner,
+        .carousel .carousel-item,
+        .carousel .carousel-item img,
+        .carousel .carousel-control {
+            border-radius: 15px;
+        }
+    }
+}
+
+@media (max-width: 1328px){
+    .Content{
+        width: 1500px;
+        .context-menu{
+            width: 1405px;
+            .sub-menu{
+                .data-menu{
+                    width: 900px;
+                }
+            }
+            .carousel {
+                width: 100%;
+            }
+            .timegold {
+                width: 900px;
+            }
+        }
+    }
+}
+@media (max-width: 1311px){
+    .Content{
+        width: 1900px;
+    }
+}
+@media (max-width: 1000px){
+        .context-menu{
+            display: none;
+        }
+        .Content{
+            width: 1500px;
+        }
+}

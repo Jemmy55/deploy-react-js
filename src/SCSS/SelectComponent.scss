@@ -1,0 +1,23 @@
+
+.select-main{
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    width: 100%;
+    margin: 20px 0;
+    justify-content: center;
+    .css-b62m3t-container{
+        width: calc(100% / 7);
+        margin-left: -9.5px;
+    }
+    .btn-filter{
+        background-color: #fff;
+    }
+    .btn-filter:hover{
+       background-color: #92e592;
+       transition: 0.8s;
+    }
+    .css-1nmdiq5-menu{
+        width: 95%;
+    }
+}

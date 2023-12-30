@@ -1,0 +1,107 @@
+.bill{
+    border-radius: 15px;
+    h4{
+        text-align: center;
+        margin: 0;
+    }
+    .top{
+        background-color: #E30019;
+        border-radius: 15px 15px 0 0;
+        padding: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: #fff;
+        svg{
+            transform: translateY(-4px);
+        }
+    }
+    .info{
+        background-color: #f2f2f2;
+        padding: 10px 50px;
+        border: 1px solid #000;
+        width: 80%;
+        margin: 20px auto;
+        border-radius: 10px;
+        h4{
+            margin-bottom: 10px;
+        }
+        p{
+            border-bottom: 1px solid #000;
+            font-size: 18px;
+            span{
+                margin-left: auto;
+                font-size: 20px;
+                font-weight: 700;
+            }
+        }
+        .total{
+            color: #E30019;
+        }
+    }
+    .showProduct{
+        border:  1px solid #000;
+        border-radius: 0 0 15px 15px;
+        .cart{
+            margin-top: 10px;
+            img{
+                display: block;
+                width: 100%;
+            }
+            display: flex;
+            align-items: center;
+            justify-content: space-around;
+            .left{
+                .ontop{
+                    h5{
+                        font-size: 21px;
+                    }
+                    .price{
+                        display: flex;
+                        align-items: center;
+                        justify-content: space-between;
+                        gap: 15px;
+                        p{
+                            font-size: 16px;
+                            font-weight: 500;
+                            span{
+                                font-size: 18px;
+                                color: #E30019;
+                                font-weight: 700;
+                            }
+                        }
+                    }
+                }
+                .bottom{
+                    ul > li{
+                        list-style-type: circle;
+                    }
+                }
+            }
+            .right{
+                width: 200px;
+            }
+        }
+        .BacktoShop{
+            display: block;
+            width: 100%;
+            margin: 20px 0;
+            text-align: center;
+            span{
+                cursor: pointer;
+                padding: 10px;
+                border: 1px solid #2F80ED;
+                text-decoration: none;
+                font-size: 20px;
+                border-radius: 15px;
+            }
+            span:hover{
+                border: 1px solid #ff1f1f;
+                color: #ff1f1f;
+            }
+        }
+    }
+}
+.modal-content{
+    border-radius: 15px;
+}

@@ -1,0 +1,61 @@
+html::-webkit-scrollbar{
+    width: 0.5vw;
+}
+html::-webkit-scrollbar-thumb{
+    background-color: #E30019;
+    border-radius: 15px;
+}
+.mainBox{
+    overflow: hidden;
+    overflow-y: auto;
+    color: #000;
+        border: 1px solid #000;
+        border-radius: 15px;
+        background-color: #fff;
+    .boxCard{
+        display: flex;
+        position: relative;
+        width: 100%;
+        height: 98px;
+        z-index: 2;
+        border-radius: 15px;
+        padding: 7.5px;
+        h5{
+            font-size: 12px;
+            margin-bottom: 2px;
+        }
+        .price{
+            display: flex;
+            align-items: center;
+            gap: 7px;
+            font-size: 12px;
+            p{
+                margin: 0;
+                color: #E30019;
+                font-weight: 700;
+            }
+            del{
+                font-size: 10px;
+                color: #6D6E72;
+            }
+        }
+        img{
+            display: block;
+            width: 100%;
+        }
+        .right{
+            width: 120px;
+            margin-left: 5px;
+        }
+    }
+}
+.mainBox::-webkit-scrollbar{
+    width: 0.1px;
+}
+.notfind{
+    padding: 10px;
+    h5{
+        margin: 0;
+        font-size: 15.5px;
+    }
+}

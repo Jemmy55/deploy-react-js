@@ -1,0 +1,158 @@
+.cart{
+    .cart-main{
+        border-radius: 10px;
+        border: 1px solid #000;
+    }
+    .box-cart-buy{
+        width: 800px;
+        margin: 100px auto 50px;
+        .cart-main{
+            background-color: #fff;
+            margin-top: 10px;
+            padding: 20px 50px;
+            .box-product{
+                display: flex;
+                gap: 10px;
+                justify-content: space-between;
+                padding-bottom: 10px;
+                margin-bottom: 15px;
+                border-bottom: 1px solid #000;
+            }
+        }
+        .icon{
+            margin-bottom: 2.4px;
+        }
+        .img{
+            width: 200px;
+            margin: auto 0;
+            img{
+                display: block;
+                width: 100%;
+                border-radius: 10px;
+                margin-top: 10px;
+            }
+            .delete{
+                width: 100%;
+                border: none;
+                background-color: #fff;
+            }
+            .delete:hover > span{
+                color: red;
+            }
+        }
+        .product-info{
+            width: 400px;
+            .title-product{
+                font-size: 20px;
+                font-weight: 500;
+                display: block;
+            }
+            .content{
+                font-size: 15px;
+                display: block;
+                width: 80%;
+                margin: 0 auto;
+                span{
+                    font-size: 18px;
+                    font-weight: 700;
+                }
+                ul > li{
+                    list-style-type: circle;
+                }
+            }
+        }
+        .product-price{
+            .price{
+                display: block;
+                font-size: 22px;
+                color: #E30019;
+                font-weight: 700;
+                margin-left: 30px;
+            }
+            del{
+                font-weight: 500;
+                color: #6D6E72;
+                margin-left: 70px;
+            }
+            .quantity{
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                border: 1px solid #000;
+                width: 80px;
+                margin: 15px 0 0 auto;
+                input{
+                    border: none;
+                    width: 30px;
+                    text-align: center;
+                    outline: none;
+                }
+                span{
+                    cursor: pointer;
+                    margin-bottom: 4px;
+                }
+                .minus,.plus{
+                    font-size: 20px;
+                }
+                .minus:hover{
+                    color: #E30019;
+                }
+                .plus:hover{
+                    color: #4fed06;
+                }
+            }
+        }
+        .section-total-price{
+            .shipping ,.total{
+                margin-top: 10px;
+                display: flex;
+                justify-content: space-between;
+                .title-ship, .title , .price-ship{
+                    font-size: 18px;
+                    font-weight: 500;
+                }
+                .total-price{
+                    color: #E30019;
+                    font-size: 26px;
+                    font-weight: 700;
+                }
+                .radiocheck{
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    label{
+                        font-size: 17px;
+                        font-weight: 700;
+                    }
+                    input{
+                        margin-left: 5px;
+                    }
+                }
+            }
+            button{
+                width: 100%;
+                border: none;
+                border-radius: 15px;
+                padding: 10px;
+                background-color: #E30019;
+                color: #fff;
+                font-weight: 500;
+                margin-top: 10px;
+            }
+        }
+    }
+   
+    .total{
+        margin-top: 20px;
+        text-align: right;
+        span{
+            font-size: 16px;
+            color: #E30019;
+        }
+    }
+}
+.toatstify{
+    .Toastify__toast--success{
+        background-color: #E30019;
+    }
+}

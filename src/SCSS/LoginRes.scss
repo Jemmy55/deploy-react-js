@@ -1,0 +1,191 @@
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.ModalTitle{
+    margin-left: auto;
+    padding-left: 50px;
+}
+.BodyForm{
+    .User , .Fullname , .Pass{
+        position: relative;
+    }
+    .User input, .Fullname input, .Pass input{
+        width: 100%;
+        margin: 10px 0 ;
+        padding: 10px 20px;
+        outline: none;
+        border-radius: 10px;
+        outline: none;
+        border: none;
+        border: 1px solid #000;
+    }
+    input:focus {
+        border-color: #3B5998;
+    }
+    input:not(:placeholder-shown) + label,
+    input:focus + label{
+        top: 9px;
+        left: 16px;
+        padding: 0 5px;
+        display: inline-block;
+        background-color: #fff;
+        color: #3B5998;
+    }
+    .User label, .Fullname label, .Pass label{
+        position: absolute;
+        display: inline-block;
+        width: auto;
+        top: 50%;
+        transform:  translateY(-50%);
+        left: 21px;
+        font-size: 16px;
+        pointer-events: none;
+        user-select: none;
+        color: #999;
+        transition: 0.25s ease;
+    }
+
+    .showPass{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        .checkPass{
+            display: flex;
+            align-items: center;
+            input{
+                margin-right: 5px;
+                cursor: pointer;
+            }
+        }
+        a{
+            text-decoration: none;
+            color: rgb(101, 101, 101);
+        }
+        margin-bottom: 10px;
+    }
+
+    .btnLog{
+        text-align: center;
+        button{
+            width: 200px;
+            height: 40px;
+            border-radius: 10px;
+            border: none;
+            font-weight: 700;
+            margin: 5px 0;
+            color: #fff;
+        }
+        .btnLogin button{
+            background-color: #E30019;
+        }
+        .or{
+            margin-top: 5px;
+            position: relative;
+        }
+        .or p{
+            position: relative;
+            display: inline-block;
+            padding: 0 10px;
+            overflow: hidden;
+            background-color: #fff;
+            z-index: 2;
+        }
+        .or::before{
+            content: "";
+            position: absolute;
+            width: 100%;
+            height: 1px;
+            background-color: #000;
+            top: 13.5px;
+            left: 0;
+            z-index: 1;
+        }
+
+        .google-facebook{
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            button{
+                padding-bottom: 6px;
+            }
+            .google{
+                background-color: #DF4A32;
+            }
+            .facebook{
+                background-color: #3B5998;
+            }
+            button > span{
+                font-size: 20px;
+            }
+        }
+        .not-have-account span{
+            cursor: pointer;
+            color: #6E9CE0;
+            font-weight: 500;
+        }
+    }
+}
+
+.info{
+    padding: 20px 0;
+    .label{
+        font-size: 25px;
+        display: block;
+        width: 50%;
+        margin: 0 auto;
+    }
+   
+    .input{
+        width: 90%;
+        margin: 0 auto;
+        .fullname , .phone , .address{
+            position: relative;
+        }
+        .fullname input, .phone input, .address input{
+            width: 90%;
+            display: block;
+            margin: 25px auto;
+            padding: 5px 15px;
+            border-radius: 5px;
+            border: 1px solid #000;
+        }
+        .fullname label, .phone label , .address label {
+            position: absolute;
+            top: 4.5px;
+            left: 40px;
+            pointer-events: none;
+            transition: 0.3s linear;
+        }
+        input:focus {
+            border-color: #3B5998;
+            border: 1px solid #3B5998;
+        }
+        input:not(:placeholder-shown) + label,
+        input:focus + label{
+            top: -14px;
+            left: 40px;
+            padding: 0 5px;
+            display: inline-block;
+            background-color: #fff;
+            color: #3B5998;
+            transition: 0.3s linear;
+            outline: hidden;
+            height: 20px;
+        }
+    }
+    button{
+        width: 40%;
+        display: block;
+        padding: 5px;
+        border: none;
+        border-radius: 10px;
+        background-color: #E30019;
+        color: #fff;
+        font-size: 17px;
+        margin: 0 auto;
+        margin-top: 20px;
+    }
+}

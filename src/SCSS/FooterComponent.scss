@@ -1,0 +1,115 @@
+.footer{
+    background-color: #fff;
+    .footer-top{
+        border-bottom: 1px solid #898989;
+        display: flex;
+        justify-content: space-evenly;
+        margin: 0 auto;
+        padding-top: 20px;
+        .info{
+            padding: 0;
+        }
+        ul{
+            list-style-type: none;
+            padding: 0;
+        }
+        a{
+            text-decoration: none;
+        }
+        .thumb{
+            width: calc(100% / 5);
+            h5{
+                font-size: 20px;
+            }
+        }
+        img{
+            display: block;
+            width: 100%;
+        }
+        .ship-pay .img ul{
+            display: flex;
+            flex-wrap: wrap;
+        }
+        .ship-pay .img ul > li{
+            width: 50px;
+        }
+    }
+    .footer-bottom{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0px 40px;
+        h5{
+            margin: 0;
+        }
+        ul , .infoUs{
+            padding: 0;
+            margin: 0;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        ul > li{
+            width: 30px;
+        }
+        img{
+            width: 100%;
+            display: block;
+        }
+        .iconF{
+            width: 150px;
+        }
+    }
+}
+.footer-top{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0 auto;
+    ul{
+        list-style-type: none;
+        padding: 0;
+    }
+    a{
+        text-decoration: none;
+    }
+    .thumb{
+        width: calc(100% / 5);
+    }
+    img{
+        display: block;
+        width: 100%;
+    }
+    .ship-pay .img ul{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .ship-pay .img ul > li{
+        width: 50px;
+    }
+}
+.footer-bottom{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 40px;
+    h5{
+        margin: 0;
+    }
+    ul , .infoUs{
+        padding: 0;
+        margin: 0;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+    ul > li{
+        width: 30px;
+    }
+    img{
+        width: 100%;
+        display: block;
+    }
+    .iconF{
+        width: 150px;
+    }
+}

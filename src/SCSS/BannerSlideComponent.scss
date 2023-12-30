@@ -1,0 +1,68 @@
+.swiper {
+    width: 100%;
+    height: 100%;
+}
+.swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.SwiperBanner{
+    padding: 0 50px;
+    .swiper-slide{
+        cursor: pointer;
+    }
+    .swiper-button-prev, .swiper-button-next{
+        color: aqua;
+    }
+    .swiper-button-prev::after, .swiper-button-next::after{
+        font-size: 30px;
+    }
+}
+.timegold {
+    margin: 50px auto;
+}
+// Banner Filter
+.banner{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    padding: 8px;
+    gap: 15px;
+    .banner-left {
+        width: 35%;
+    }
+    .banner-right{
+        width: 75%;
+    }
+}
+.nav-justified{
+    background-color: #fff;
+}
+.nav-link {
+    color: #fff;
+    p{
+        margin: 0;
+    }
+}
+.nav-link:hover{
+    color: #000;
+}
+.nav-tabs,.nav-link.active{
+    background-color: #E30019;
+}
+// Card Product
+.card{
+    cursor: pointer;
+    .card-title{
+        margin: 2px 16px;
+    }
+    .card-body{
+        padding-top: 0;
+        cursor: default;
+    }
+}
