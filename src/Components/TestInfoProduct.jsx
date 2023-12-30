@@ -1446,7 +1446,7 @@
                         "img": "https://file.hstatic.net/200000722513/file/gearvn-laptop-gaming-asus-tuf-f15-fx507zc4-hn074w-12_16807211e1054221905a2d94c013f66d_1024x1024.png"
                     },
                     {
-                        "contect": "Bên cạnh đó, ổ cứng SSD dung lượng 512GB cho phép bạn lưu trữ một khối lượng lớn dữ liệu và ứng dụng. Nếu như bạn cảm thấy nó chưa đủ để phục vụ nhu cầu sử dụng của bạn thì ASUS TUF F15 còn trống một khe SSD M.2 PCI-e để bạn có thể thoải mái nâng cấp khả năng lưu trữ trong tương lai."
+                        "contect": "Bên cạnh đó, ổ cứng SSD dung lượng 512GB cho phép bạn lưu trữ một khối lượng lớn dữ liệu và ứng dụng. Nếu như bạn cảm thấy nó chưa đủ để phục vụ nhu cầu sử dụng của bạn thì ASUS TUF F15 còn trống một khe SSD M.2 PCI-e để bạn có thể thoải mái nâng cấp khả năng lưu trữ trong tương lai.",
                     },
                     {
                         "h3": "Độ bền đạt tiêu chuẩn quân đội",
